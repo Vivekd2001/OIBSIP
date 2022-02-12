@@ -1,2 +1,2 @@
 # OIBSIP
-Oasis Wen Development Internship Tasks
+Oasis Web Development Internship Tasks
